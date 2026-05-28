@@ -1,4 +1,4 @@
-# Students Performance Analysis & Prediction Project 🎓
+# # Predictive Modeling of Student Academic Performance 🤖
 
 This project applies exploratory data analysis and machine learning to understand the factors affecting student academic performance and predict final exam outcomes. It is built and executed entirely within Google Colab.
 
